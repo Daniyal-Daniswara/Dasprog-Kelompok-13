@@ -1,4 +1,4 @@
-Kalkulator Teknik Elektro & Konversi Bilangan (CLI)
+Kalkulator Teknik Elektro & Konversi Bilangan
 
 Project ini adalah program sederhana berbasis C yang berguna buat bantu hitung-hitungan dasar teknik elektro dan konversi bilangan langsung dari terminal. Cocok buat mahasiswa elektro atau siapa saja yang butuh kalkulator cepat tanpa ribet.
 
